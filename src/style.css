@@ -1,9 +1,12 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body, table{
-    
+body{
+    background-color: white;
 }
-.deck {
+.deck{
     font-size: 400px;
+    background-color: white;
+    border-radius: 40px;
 }
+
 

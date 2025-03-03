@@ -1,7 +1,9 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
-    font-size: 250px;
+body, table{
+    
+}
+.deck {
+    font-size: 400px;
 }
 

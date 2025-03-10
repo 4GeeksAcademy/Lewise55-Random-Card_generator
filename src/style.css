@@ -3,10 +3,11 @@
 body{
     background-color: white;
 }
-.deck{
+.deck, .back{
     font-size: 400px;
     background-color: white;
     border-radius: 40px;
 }
+
 
 
